@@ -1,2 +1,0 @@
-touch .gitattributes
-*.txt linguist-language=Java
