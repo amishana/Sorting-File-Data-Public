@@ -12,5 +12,4 @@
 
 
 # language
--*- mode: php;
--*- c++
+vim: set filetype=prolog:
