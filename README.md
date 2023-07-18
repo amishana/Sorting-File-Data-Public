@@ -23,4 +23,3 @@ Professor Sagnik Nath authored allocate_file_record_pointers.asm, data.csv, and 
 7. data.csv holds the data set of company names and numerical incomes separated by a comma.<br />
 8. testbench.asm holds the main program that tests all functions with the data from data.csv.<br />
 
-vim: syntax=java
