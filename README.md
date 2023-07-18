@@ -22,3 +22,5 @@ Professor Sagnik Nath authored allocate_file_record_pointers.asm, data.csv, and 
 6. totalIncome.asm returns the total sum of numerical incomes in the data set.<br />
 7. data.csv holds the data set of company names and numerical incomes separated by a comma.<br />
 8. testbench.asm holds the main program that tests all functions with the data from data.csv.<br />
+
+vim: syntax=java
