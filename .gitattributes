@@ -20,7 +20,8 @@
 
 
 # language
-vim: set syntax=JAVASCRIPT
+-*- mode: php; -*-
+-*- c++ -*-
 
 #
 # Enable syntax highlighting for files with `.gitattributes` extensions.
