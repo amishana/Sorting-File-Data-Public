@@ -20,8 +20,8 @@
 
 
 # language
--*- mode: php; -*-
--*- c++ -*-
+-*- mode: php; -
+-*- c++ -
 
 #
 # Enable syntax highlighting for files with `.gitattributes` extensions.
