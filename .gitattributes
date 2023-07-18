@@ -20,7 +20,7 @@
 
 
 # language
-vim: set syntax=ruby:
+vim: set syntax=JAVASCRIPT
 
 #
 # Enable syntax highlighting for files with `.gitattributes` extensions.
