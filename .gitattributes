@@ -18,6 +18,10 @@
 .gitattributes  export-ignore
 .gitignore      export-ignore
 
+
+# language
+vim: set syntax=ruby:
+
 #
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
